@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5774D630-2E2D-4DDB-8575-5A163269A030}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>FirstAssignmentF23.Module1</StartupObject>
+    <StartupObject>FirstAssignmentF23.FirstAssignmentF23</StartupObject>
     <RootNamespace>FirstAssignmentF23</RootNamespace>
     <AssemblyName>FirstAssignmentF23</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="FirstAssignmentF23.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
